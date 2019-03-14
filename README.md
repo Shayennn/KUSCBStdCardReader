@@ -2,6 +2,10 @@
 
 The script for reading SCB Student Card of Kasetsart University.
 
+## Testing video
+
+[![Script testing](https://img.youtube.com/vi/Youpe5msSSc/0.jpg)](https://www.youtube.com/watch?v=Youpe5msSSc)
+
 ## Installation
 
 Install requirement libs by typing this in your command prompt.
