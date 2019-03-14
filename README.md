@@ -14,6 +14,7 @@ python3 -m pip install -r requirements.txt
 
  1. Connect NFC Reader to your computer.
  2. Run the scirpt by `python3 main.py` or `./main.py`
+    - (Linux user must to run this script as root.)
  3. Focus at your text box.
  4. Tap student card at the reader.
 
